@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "andrew jarrett",
   "description": "Tommy H. Rousse",
-  "repository": "switchbitio/ghost-theme-with-gulp",
+  "repository": "ahrjarrett/ghost-dev",
   "license": "MIT",
   "engines": {
     "node": ">=4.2.3"
