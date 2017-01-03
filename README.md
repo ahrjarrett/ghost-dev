@@ -1,5 +1,9 @@
 # Ghost Development Environment Using Gulp
 
+### As of 01/02/2016, this repo is deprecated.
+See the [g repo](https://github.com/ahrjarrett/g) for the latest version.
+
+### Old readme contents:
 **Note:** Make sure you're using Node >=4.2 < 5 (use nvm if you need it)
 
 **Instructions:**
